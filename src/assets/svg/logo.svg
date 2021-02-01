@@ -1,0 +1,104 @@
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          xmlns:xlink="http://www.w3.org/1999/xlink"
+          width="49.454"
+          height="37.788"
+          viewBox="0 0 49.454 37.788"
+        >
+          <defs>
+            <linearGradient
+              id="linear-gradient"
+              x1="0.5"
+              x2="0.5"
+              y2="1"
+              gradientUnits="objectBoundingBox"
+            >
+              <stop offset="0" stop-color="#ff435e" />
+              <stop offset="1" stop-color="#80222f" />
+            </linearGradient>
+            <filter
+              id="Path_69"
+              x="0"
+              y="0"
+              width="49.454"
+              height="29.536"
+              filterUnits="userSpaceOnUse"
+            >
+              <feOffset dx="2" dy="2" input="SourceAlpha" />
+              <feGaussianBlur stdDeviation="1" result="blur" />
+              <feFlood flood-opacity="0.161" />
+              <feComposite operator="in" in2="blur" />
+              <feComposite in="SourceGraphic" />
+            </filter>
+            <filter
+              id="Path_70"
+              x="0"
+              y="14.278"
+              width="49.454"
+              height="20.597"
+              filterUnits="userSpaceOnUse"
+            >
+              <feOffset dx="2" dy="2" input="SourceAlpha" />
+              <feGaussianBlur stdDeviation="1" result="blur-2" />
+              <feFlood flood-opacity="0.161" />
+              <feComposite operator="in" in2="blur-2" />
+              <feComposite in="SourceGraphic" />
+            </filter>
+            <filter
+              id="Path_71"
+              x="0"
+              y="22.987"
+              width="49.454"
+              height="14.802"
+              filterUnits="userSpaceOnUse"
+            >
+              <feOffset dx="2" dy="2" input="SourceAlpha" />
+              <feGaussianBlur stdDeviation="1" result="blur-3" />
+              <feFlood flood-opacity="0.161" />
+              <feComposite operator="in" in2="blur-3" />
+              <feComposite in="SourceGraphic" />
+            </filter>
+          </defs>
+          <g
+            id="Group_4"
+            data-name="Group 4"
+            transform="translate(-14.49 -2.324)"
+          >
+            <g
+              transform="matrix(1, 0, 0, 1, 14.49, 2.32)"
+              filter="url(#Path_69)"
+            >
+              <path
+                id="Path_69-2"
+                data-name="Path 69"
+                d="M1036.364,353.494c-5.6,6.6,1.8-12.8,16.194-13.595s22.192-5.2,23.791-8.2,3.8,12.8-3.6,14.395S1041.962,346.9,1036.364,353.494Z"
+                transform="translate(-1033.49 -330.32)"
+                fill="url(#linear-gradient)"
+              />
+            </g>
+            <g
+              transform="matrix(1, 0, 0, 1, 14.49, 2.32)"
+              filter="url(#Path_70)"
+            >
+              <path
+                id="Path_70-2"
+                data-name="Path 70"
+                d="M1036.364,345.073c-5.6,4.092,1.8-7.935,16.194-8.431s22.192-3.224,23.791-5.084,3.8,7.935-3.6,8.927S1041.962,340.982,1036.364,345.073Z"
+                transform="translate(-1033.49 -316.05)"
+                fill="url(#linear-gradient)"
+              />
+            </g>
+            <g
+              transform="matrix(1, 0, 0, 1, 14.49, 2.32)"
+              filter="url(#Path_71)"
+            >
+              <path
+                id="Path_71-2"
+                data-name="Path 71"
+                d="M1036.364,339.615c-5.6,2.467,1.8-4.785,16.194-5.084s22.192-1.944,23.791-3.065,3.8,4.785-3.6,5.383S1041.962,337.148,1036.364,339.615Z"
+                transform="translate(-1033.49 -307.34)"
+                fill="url(#linear-gradient)"
+              />
+            </g>
+          </g>
+        </svg>
